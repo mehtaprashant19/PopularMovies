@@ -131,7 +131,7 @@ public class MainFragment extends Fragment {
                 }
                 mSortBy = POPULARITY_DESC;
                 updateMovies(mSortBy);
-                return true;
+//                return true;
             case R.id.action_sort_by_rating:
                 if (item.isChecked()) {
                     item.setChecked(false);
