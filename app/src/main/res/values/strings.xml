@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PopularMovies2</string>
+    <string name="api_key">5f4ba1f87b948156077a31fc7bfe8cb1</string>
+    <string name="sort_by">Sort by</string>
+    <string name="sort_by_popularity">Most Popular</string>
+    <string name="sort_by_rating">Highest Rated</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="details">Details</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="favorite">Favorite</string>
+    <string name="content_authority">com.udacity.popularmovies2</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="sort_by_favorite">Favorites</string>
+    <string name="share">Share</string>
+</resources>
